@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_video) {
             Toast.makeText(MainActivity.this, "Watch video with auto-translated subtitles", Toast.LENGTH_SHORT).show();
-            // Handle the camera action
+            // Handle the camera action!!
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {
